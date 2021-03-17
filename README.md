@@ -4,10 +4,15 @@ An easy implementation of Kernel Balancing by Naive Gradient Descent. (see,
 e.g., Kallus 2020).
 
 From
+
 <img src="fig/before.png" height="300" />
+
 to
+
 <img src="fig/after.png" height="300" />
+
 by
+
 <img src="fig/GD.png" height="300" />
 
 ## Usage
